@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project I did an analysis of a [business dataset](https://drive.google.com/drive/folders/1ml2oJ7JxAYgv3uTSXIoS0V1CUcSg-j2d?usp=sharing). The point of this project is to find some insights that can be used as a basis of future decision by the stakeholders. The tools that I used are SQL to query necessary data to make insight and also Tableau Public to visualize the insights
+In this project I did an analysis of a [business dataset](https://drive.google.com/drive/folders/1ml2oJ7JxAYgv3uTSXIoS0V1CUcSg-j2d?usp=sharing). This project is also a part of Mini Projects Programs developed by [Rakamin Academy](https://www.rakamin.com/) to help students to increase their portofolio. The point of this project is to find some insights that can be used as a basis of future decision by the stakeholders. The tools that I used are SQL to query necessary data to make insight and also Tableau Public to visualize the insights
 
 ## Work stages
 
